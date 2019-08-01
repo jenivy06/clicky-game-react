@@ -8,7 +8,7 @@ The application renders different images of Simpsons characters to the screen. E
 
 Click here to view a live demo: https://boiling-river-77973.herokuapp.com/
 
-##Technologies Used
+## Technologies Used
 
 *Node <br/>
 *React <br/>
