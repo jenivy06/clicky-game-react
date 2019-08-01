@@ -1,6 +1,6 @@
-#The React Clicky Game!
+# The React Clicky Game!
 
-##Overview
+## Overview
 
 This is a memory game created with React. This project requires breaking up the application's UI into components, managing component state, and responding to user events.
 
