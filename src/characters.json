@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "image": "clickygame-homer.png"
+      "image": "clickygame-antman.png"
     },
     {
         "id": 2,
-        "image": "clickygame-marge.png"
+        "image": "clickygame-blackpanther.png"
     },
     {
         "id": 3,
-        "image": "clickygame-lisa.png"
+        "image": "clickygame-blackwidow.png"
     },
     {
         "id": 4,
-        "image": "clickygame-bart.png"
+        "image": "clickygame-captainamerica.png"
     },
     {
         "id": 5,
-        "image": "clickygame-maggie.png"
+        "image": "clickygame-captainmarvel.png"
     },
     {
         "id": 6,
-        "image": "clickygame-barney.png"
+        "image": "clickygame-doctorstrange.png"
     },
     {
         "id": 7,
-        "image": "clickygame-burns.png"
+        "image": "clickygame-falcon.png"
     },
     {
         "id": 8,
-        "image": "clickygame-comicbookguy.png"
+        "image": "clickygame-hawkeye.png"
     },
     {
         "id": 9,
-        "image": "clickygame-flanders.png"
+        "image": "clickygame-hulk.png"
     },
     {
         "id": 10,
-        "image": "clickygame-moe.png"
+        "image": "clickygame-ironman.png"
     },
     {
         "id": 11,
-        "image": "clickygame-ralph.png"
+        "image": "clickygame-spiderman.png"
     },
     {
         "id": 12,
-        "image": "clickygame-milhouse.png"
+        "image": "clickygame-thor.png"
     }
 ]

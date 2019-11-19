@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Shadows+Into+Light|Exo+2');
+
 .header{
-	background-color: #ff9800 ;
+	background-color: blue ;
 	position: relative;
 	width: 100%;
 	color: #fff3e0;
@@ -10,12 +12,13 @@ h1{
 	font-size: 50px;
 	font-weight: bold;
 	padding: 90px 0 20px 0; 
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	background: url("http://media.istockphoto.com/vectors/seamless-pattern-of-clouds-on-blue-sky-vector-id483883392?k=6&m=483883392&s=170667a&w=0&h=LsngGlKqnL_5E_6B9Ewea_GYlRbqyrjNTd4n2C2sa1Q=");
+	font-family: 'Exo 2', sans-serif;
+	background: url("https://cdn.pixabay.com/photo/2019/11/04/02/06/iron-man-4599990_960_720.jpg");
 	background: cover;
 	opacity: 0.9;
 	width: 100%;
-	color: #ff9800;
+	color: white;
+	padding-bottom: 150px;
 	
 }
 
@@ -27,4 +30,5 @@ h2{
 
 .wrapperindex {
 	height: 125vh;
+	padding-left: 73px;
 }
