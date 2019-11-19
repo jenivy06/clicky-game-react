@@ -1,24 +1,26 @@
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Shadows+Into+Light|Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 .header{
-	background-color: blue ;
+	background-color:#97C9EA ;
 	position: relative;
 	width: 100%;
-	color: #fff3e0;
+	color: #52400E
 }
 
 h1{
 	text-align: center;
+	margin-top: 0px;
 	font-size: 50px;
 	font-weight: bold;
 	padding: 90px 0 20px 0; 
-	font-family: 'Exo 2', sans-serif;
-	background: url("https://cdn.pixabay.com/photo/2019/11/04/02/06/iron-man-4599990_960_720.jpg");
+	font-family: 'Merriweather', serif;
+	background: url("https://www.davidjones.com/images/assetimages/s18/campaigns/disney/catleaders/pooh.jpg");
 	background: cover;
 	opacity: 0.9;
 	width: 100%;
-	color: white;
-	padding-bottom: 150px;
+	color: #97C9EA;
+	padding-bottom: 75px;
+	
 	
 }
 
